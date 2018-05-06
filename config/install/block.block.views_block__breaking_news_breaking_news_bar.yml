@@ -13,7 +13,7 @@ third_party_settings:
     classes: ''
 id: views_block__breaking_news_breaking_news_bar
 theme: vartheme
-region: breaking_news
+region: header
 weight: 0
 provider: null
 plugin: 'views_block:breaking_news-breaking_news_bar'
