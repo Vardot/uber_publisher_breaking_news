@@ -1,5 +1,5 @@
 {
-  "name": "vardot/uber_publisher_breaking_news",
+  "name": "drupal/uber_publisher_breaking_news",
   "description": "Provides breaking news content type and its related configuration.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "vardot/uber_publisher": "8.4.x-dev",
+    "drupal/uber_publisher": "8.4.x-dev",
     "cweagans/composer-patches": "^1.6.4",
     "drupal-composer/drupal-scaffold": "^2.0.0",
     "drupal/views_bootstrap": "3.x-dev#ec4e7872315db6a7287014b029c3167962647588",
@@ -30,8 +30,7 @@
     "drupal/libraries": "3.0-alpha1",
     "drupal/google_analytics_reports": "3.x-dev#2b6bb8efbc7f61ce3c1225638075aa6037b8db44",
     "drupal/login_destination": "1.x-dev#54be8b89fdc073ca40af6b9b2eeb050e0aeb7908",
-    "drupal/betterlogin": "1.x-dev#f7cf1c5c9ec5e80c6ac0ef04ed605e25495232cd",
-    "drupal/autosave_form": "1.x-dev#a4bf333f5898d7e01017b49f3c9e180cfb5a352b"
+    "drupal/betterlogin": "1.x-dev#f7cf1c5c9ec5e80c6ac0ef04ed605e25495232cd"
   },
   "require-dev": {
     "drush/drush": "8.1.15",
