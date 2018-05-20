@@ -1,5 +1,5 @@
 {
-  "name": "drupal/uber_publisher_breaking_news",
+  "name": "vardot/uber_publisher_breaking_news",
   "description": "Provides breaking news content type and its related configuration.",
   "type": "drupal-module",
   "license": "GPL-2.0+",
@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "drupal/uber_publisher": "8.4.x-dev",
+    "vardot/uber_publisher": "8.4.x-dev",
     "cweagans/composer-patches": "^1.6.4",
     "drupal-composer/drupal-scaffold": "^2.0.0",
     "drupal/views_bootstrap": "3.x-dev#ec4e7872315db6a7287014b029c3167962647588",
