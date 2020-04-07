@@ -1,8 +1,10 @@
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  config:
+    - node.type.breaking_news
 id: node_type_breaking_news
 action: page_redirect
 allow_override: 0
-redirect: '[node:field_url:uri]'
+redirect: '/[node:field_url:uri]'
 redirect_code: 301
