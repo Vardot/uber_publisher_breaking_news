@@ -6,6 +6,7 @@ dependencies:
   - block
   - block_class
   - content_moderation
+  - scheduler
   - content_translation
   - field
   - language
