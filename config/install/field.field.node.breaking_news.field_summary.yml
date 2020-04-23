@@ -8,7 +8,7 @@ id: node.breaking_news.field_summary
 field_name: field_summary
 entity_type: node
 bundle: breaking_news
-label: 'Headline'
+label: Headline
 description: ''
 required: true
 translatable: false

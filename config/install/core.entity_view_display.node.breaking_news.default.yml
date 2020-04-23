@@ -8,7 +8,6 @@ dependencies:
   module:
     - link
     - user
-third_party_settings: {  }
 id: node.breaking_news.default
 targetEntityType: node
 bundle: breaking_news
