@@ -10,7 +10,7 @@
  */
 function uber_publisher_breaking_news_install() {
   $config_factory = \Drupal::configFactory();
-  $config = $config_factory->getEditable('workflows.workflow.uberpublisher_basic_workflow');
+  $config = $config_factory->getEditable('workflows.workflow.varbase_basic_workflow');
   $config_array = $config->get();
   $config_array['type_settings']['entity_types']['node'][] = 'breaking_news';
   $config->set('type_settings', $config_array['type_settings']);
