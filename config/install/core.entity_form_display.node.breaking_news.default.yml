@@ -5,7 +5,7 @@ dependencies:
     - field.field.node.breaking_news.field_summary
     - field.field.node.breaking_news.field_url
     - node.type.breaking_news
-    - workflows.workflow.varbase_basic_workflow
+    - workflows.workflow.varbase_editorial_workflow
   module:
     - content_moderation
     - field_group
