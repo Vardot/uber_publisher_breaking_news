@@ -1,7 +1,6 @@
 name: 'Uber Publisher Breaking News'
 description: 'Provides breaking news content type and its related configuration.'
 type: module
-core: 8.x
 dependencies:
   - block
   - block_class
@@ -21,5 +20,5 @@ dependencies:
   - user
   - views
   - views_bootstrap
-version: 8.x-6.x-dev
 package: 'Uber Publisher'
+core_version_requirement: ^8 || ^9
