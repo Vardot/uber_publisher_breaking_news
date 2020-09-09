@@ -4,7 +4,6 @@ dependencies:
   config:
     - views.view.breaking_news
   module:
-    - block_class
     - views
   theme:
     - uber_publisher_bs4
@@ -21,4 +20,5 @@ settings:
   label_display: visible
   views_label: ''
   items_per_page: none
+  exposed: {  }
 visibility: {  }

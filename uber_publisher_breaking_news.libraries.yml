@@ -2,3 +2,9 @@ styles:
   css:
     theme:
       css/breaking-news.css: {}
+  version: VERSION
+  js:
+    js/jquery.cookie.js: {}
+    js/breaking-news.js: {}
+  dependencies:
+    - core/jquery
