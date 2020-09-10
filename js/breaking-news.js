@@ -55,7 +55,6 @@
                 .trim()
             );
             $('.view-post-breaking-news').fadeOut(500);
-            $.removeCookie('bn');
             $.cookie('bn', id, { expires: 30, path: '/'});
             setTimeout(function() {
               $('.view-post-breaking-news').removeClass('d-block');
