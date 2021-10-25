@@ -8,3 +8,4 @@ dependencies:
   - varbase_media:varbase_media
   - varbase_seo:varbase_seo
   - varbase_workflow:varbase_workflow
+  - slick_views:slick_views
