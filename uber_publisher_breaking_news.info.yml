@@ -1,24 +1,10 @@
 name: 'Uber Publisher Breaking News'
 description: 'Provides breaking news content type and its related configuration.'
 type: module
-dependencies:
-  - block
-  - block_class
-  - content_moderation
-  - scheduler
-  - content_translation
-  - field
-  - language
-  - link
-  - menu_ui
-  - node
-  - path
-  - pathauto
-  - rabbit_hole
-  - slick
-  - slick_views
-  - user
-  - views
-  - views_bootstrap
 package: 'Uber Publisher'
 core_version_requirement: ^8 || ^9
+dependencies:
+  - varbase_core:varbase_core
+  - varbase_media:varbase_media
+  - varbase_seo:varbase_seo
+  - varbase_workflow:varbase_workflow
