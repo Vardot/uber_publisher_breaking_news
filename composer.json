@@ -34,7 +34,8 @@
     "drupal/varbase_core": "~8.0 || 8.8.x-dev",
     "drupal/varbase_media": "~7.0 || 8.7.x-dev",
     "drupal/varbase_seo": "~6.0 || 8.6.x-dev",
-    "drupal/varbase_workflow": "~2.0 || 2.0.x-dev"
+    "drupal/varbase_workflow": "~2.0 || 2.0.x-dev",
+    "drupal/uber_publisher_core": "~7.0 | 7.0.x-dev"
   },
   "extra": {
     "branch-alias": {

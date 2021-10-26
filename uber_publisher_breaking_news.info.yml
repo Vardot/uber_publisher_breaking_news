@@ -8,4 +8,5 @@ dependencies:
   - varbase_media:varbase_media
   - varbase_seo:varbase_seo
   - varbase_workflow:varbase_workflow
+  - uber_publisher_core:uber_publisher_core
   - slick_views:slick_views
