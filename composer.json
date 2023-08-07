@@ -19,7 +19,7 @@
   "repositories": {
     "drupal": {
       "type": "composer",
-      "url": "https://packages.drupal.org/8"
+      "url": "https://packages.drupal.org/9"
       },
     "assets": {
       "type": "composer",
@@ -32,7 +32,7 @@
     "cweagans/composer-patches": "~1.0",
     "drupal/core": "~9.0",
     "drupal/varbase_core": "~9.0",
-    "drupal/varbase_media": "~79.0",
+    "drupal/varbase_media": "~9.0",
     "drupal/varbase_seo": "~9.0",
     "drupal/varbase_workflow": "~2.0",
     "drupal/uber_publisher_core": "~9.0 | 9.0.x-dev"
