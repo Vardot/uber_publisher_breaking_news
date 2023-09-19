@@ -2,7 +2,7 @@ name: 'Uber Publisher Breaking News'
 description: 'Provides breaking news content type and its related configuration.'
 type: module
 package: 'Uber Publisher'
-core_version_requirement: ^9
+core_version_requirement: ~9.5.0 || ~10.1.0
 dependencies:
   - varbase_core:varbase_core
   - varbase_media:varbase_media
